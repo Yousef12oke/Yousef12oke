@@ -41,16 +41,47 @@
 
 ## 🛠️ Arsenal
 
-```python
-tools = {
-    "Languages"      : ["Python", "PHP", "JavaScript", "HTML", "SQL", "Bash"],
-    "Web Security"   : ["Burp Suite Pro", "sqlmap", "ffuf", "Gobuster", "XSStrike", "Nikto"],
-    "Network"        : ["Nmap", "Netcat", "Wireshark", "Masscan", "Metasploit", "CrackMapExec"],
-    "Recon & OSINT"  : ["Subfinder", "Amass", "Shodan", "theHarvester", "Recon-ng"],
-    "Platforms"      : ["HackerOne", "Bugcrowd", "TryHackMe", "PortSwigger"],
-    "OS"             : ["Kali Linux", "Parrot OS", "Ubuntu"],
-}
-```
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**🌐 Web Security**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-00FF41?style=for-the-badge&logoColor=black)
+![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logoColor=white)
+![XSStrike](https://img.shields.io/badge/XSStrike-FF0000?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-222222?style=for-the-badge&logoColor=white)
+
+**🖧 Network**
+
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logoColor=white)
+![Masscan](https://img.shields.io/badge/Masscan-FF6600?style=for-the-badge&logoColor=white)
+![CrackMapExec](https://img.shields.io/badge/CrackMapExec-8B0000?style=for-the-badge&logoColor=white)
+
+**🔍 Recon & OSINT**
+
+![Subfinder](https://img.shields.io/badge/Subfinder-00FF41?style=for-the-badge&logoColor=black)
+![Amass](https://img.shields.io/badge/Amass-6236FF?style=for-the-badge&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
+![theHarvester](https://img.shields.io/badge/theHarvester-222222?style=for-the-badge&logoColor=white)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-00ADB5?style=for-the-badge&logoColor=white)
+
+**🖥️ Operating Systems**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
 
 ---
 
