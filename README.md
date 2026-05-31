@@ -35,8 +35,6 @@
 - 🔴 **Red Teaming** — Full attack simulation, recon, and post-exploitation
 - 📝 **Writeups** — Sharing findings and techniques on Medium
 - 🎥 **Content Creation** — CTF walkthroughs & security tutorials on YouTube
-- 🌍 **Arabic Cybersecurity Community** — Making security knowledge accessible in Arabic
-
 ---
 
 ## 🛠️ Arsenal
